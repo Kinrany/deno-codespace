@@ -1,0 +1,11 @@
+{
+  "importMap": "import_map.json",
+  "fmt": {
+    "files": ["."],
+    "exclude": ["frontend/dist"]
+  },
+  "lint": {
+    "files": ["."],
+    "exclude": ["frontend/dist"]
+  }
+}
